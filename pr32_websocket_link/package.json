@@ -1,0 +1,17 @@
+{
+  "name": "pr32_websocket_link",
+  "version": "1.0.0",
+  "main": "websocket_client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "mongodb": "^6.16.0",
+    "winston": "^3.17.0",
+    "ws": "^8.18.2"
+  }
+}

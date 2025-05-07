@@ -1,0 +1,57 @@
+2025-05-07T18:08:09.258Z [INFO]: Servidor WebSocket escoltant al port 8080
+2025-05-07T18:08:31.651Z [INFO]: Client connectat
+2025-05-07T18:08:52.489Z [INFO]: Servidor WebSocket escoltant al port 8080
+2025-05-07T18:08:57.880Z [INFO]: Client connectat
+2025-05-07T18:11:50.754Z [INFO]: Servidor WebSocket escoltant al port 8080
+2025-05-07T18:11:50.768Z [INFO]: Connectat a MongoDB
+2025-05-07T18:11:55.263Z [INFO]: Client connectat
+2025-05-07T18:12:45.809Z [INFO]: Servidor WebSocket escoltant al port 8080
+2025-05-07T18:12:45.824Z [INFO]: Connectat a MongoDB
+2025-05-07T18:12:49.314Z [INFO]: Client connectat
+2025-05-07T18:15:35.525Z [INFO]: Servidor WebSocket escoltant al port 8080
+2025-05-07T18:15:35.532Z [INFO]: Connectat a MongoDB
+2025-05-07T18:15:38.992Z [INFO]: Client connectat
+2025-05-07T18:22:00.316Z [INFO]: Servidor WebSocket escoltant al port 8080
+2025-05-07T18:22:04.459Z [INFO]: Client connectat
+2025-05-07T18:22:05.464Z [INFO]: Moviment rebut: {"x":1,"y":1} (Partida 1746642124459)
+2025-05-07T18:22:06.464Z [INFO]: Moviment rebut: {"x":2,"y":2} (Partida 1746642124459)
+2025-05-07T18:22:07.465Z [INFO]: Moviment rebut: {"x":3,"y":3} (Partida 1746642124459)
+2025-05-07T18:22:08.466Z [INFO]: Moviment rebut: {"x":4,"y":4} (Partida 1746642124459)
+2025-05-07T18:22:09.468Z [INFO]: Moviment rebut: {"x":5,"y":5} (Partida 1746642124459)
+2025-05-07T18:22:15.327Z [INFO]: Client desconnectat
+2025-05-07T18:23:19.580Z [INFO]: Client connectat
+2025-05-07T18:23:22.111Z [INFO]: Moviment rebut: {"x":0,"y":1} (Partida 1746642199580)
+2025-05-07T18:23:22.499Z [INFO]: Moviment rebut: {"x":0,"y":2} (Partida 1746642199580)
+2025-05-07T18:23:22.680Z [INFO]: Moviment rebut: {"x":0,"y":3} (Partida 1746642199580)
+2025-05-07T18:23:22.832Z [INFO]: Moviment rebut: {"x":0,"y":4} (Partida 1746642199580)
+2025-05-07T18:23:22.967Z [INFO]: Moviment rebut: {"x":0,"y":5} (Partida 1746642199580)
+2025-05-07T18:23:23.176Z [INFO]: Moviment rebut: {"x":1,"y":5} (Partida 1746642199580)
+2025-05-07T18:23:23.363Z [INFO]: Moviment rebut: {"x":2,"y":5} (Partida 1746642199580)
+2025-05-07T18:23:23.520Z [INFO]: Moviment rebut: {"x":3,"y":5} (Partida 1746642199580)
+2025-05-07T18:23:23.675Z [INFO]: Moviment rebut: {"x":4,"y":5} (Partida 1746642199580)
+2025-05-07T18:23:23.830Z [INFO]: Moviment rebut: {"x":5,"y":5} (Partida 1746642199580)
+2025-05-07T18:23:24.199Z [INFO]: Moviment rebut: {"x":5,"y":4} (Partida 1746642199580)
+2025-05-07T18:23:24.362Z [INFO]: Moviment rebut: {"x":5,"y":3} (Partida 1746642199580)
+2025-05-07T18:23:24.520Z [INFO]: Moviment rebut: {"x":5,"y":2} (Partida 1746642199580)
+2025-05-07T18:23:24.663Z [INFO]: Moviment rebut: {"x":5,"y":1} (Partida 1746642199580)
+2025-05-07T18:23:24.800Z [INFO]: Moviment rebut: {"x":5,"y":0} (Partida 1746642199580)
+2025-05-07T18:23:24.937Z [INFO]: Moviment rebut: {"x":5,"y":-1} (Partida 1746642199580)
+2025-05-07T18:23:25.073Z [INFO]: Moviment rebut: {"x":5,"y":-2} (Partida 1746642199580)
+2025-05-07T18:23:35.595Z [INFO]: Partida 1746642199580 finalitzada per inactivitat
+2025-05-07T18:23:35.597Z [INFO]: Distància calculada: 5.83
+2025-05-07T18:23:39.500Z [INFO]: Moviment rebut: {"x":6,"y":-2} (Partida 1746642215598)
+2025-05-07T18:23:39.854Z [INFO]: Moviment rebut: {"x":7,"y":-2} (Partida 1746642215598)
+2025-05-07T18:23:40.025Z [INFO]: Moviment rebut: {"x":8,"y":-2} (Partida 1746642215598)
+2025-05-07T18:23:40.202Z [INFO]: Moviment rebut: {"x":9,"y":-2} (Partida 1746642215598)
+2025-05-07T18:23:40.349Z [INFO]: Moviment rebut: {"x":10,"y":-2} (Partida 1746642215598)
+2025-05-07T18:23:40.482Z [INFO]: Moviment rebut: {"x":11,"y":-2} (Partida 1746642215598)
+2025-05-07T18:23:40.617Z [INFO]: Moviment rebut: {"x":12,"y":-2} (Partida 1746642215598)
+2025-05-07T18:23:40.780Z [INFO]: Moviment rebut: {"x":13,"y":-2} (Partida 1746642215598)
+2025-05-07T18:23:40.926Z [INFO]: Moviment rebut: {"x":14,"y":-2} (Partida 1746642215598)
+2025-05-07T18:23:41.076Z [INFO]: Moviment rebut: {"x":15,"y":-2} (Partida 1746642215598)
+2025-05-07T18:23:41.221Z [INFO]: Moviment rebut: {"x":16,"y":-2} (Partida 1746642215598)
+2025-05-07T18:23:41.323Z [INFO]: Moviment rebut: {"x":17,"y":-2} (Partida 1746642215598)
+2025-05-07T18:23:41.475Z [INFO]: Moviment rebut: {"x":18,"y":-2} (Partida 1746642215598)
+2025-05-07T18:23:51.610Z [INFO]: Partida 1746642215598 finalitzada per inactivitat
+2025-05-07T18:23:51.610Z [INFO]: Distància calculada: 12.00
+2025-05-07T18:23:53.434Z [INFO]: Client desconnectat
